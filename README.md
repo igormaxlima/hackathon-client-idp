@@ -18,16 +18,11 @@
  * `Javascript`
 
 # :white_check_mark: Result:
-- https://hackathon-client-idp.vercel.app/
-<h2 align="center">
-Home Page 
-</h2>
-
-![image](https://github.com/igormaxlima/hackathon-client-idp/assets/122616748/c0d0d81d-6d42-41a3-a197-b3a8c17fcc48)
 
 <div align="center">
 
-gif com qrcode sendo gerado
+https://github.com/igormaxlima/hackathon-client-idp/assets/122616748/5168c4af-4951-410b-b2e4-5ba005261e10
+
 </div>
 
 #  :raising_hand: Authors:
